@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package authservice;
 
-option go_package = "github.com/magnoliAHAH/protos-glorbo/gen";
+option go_package = "glorbodeploy.ssov1;ssov1";
 
 
 service Auth {

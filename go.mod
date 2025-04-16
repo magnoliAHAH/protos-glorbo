@@ -1,3 +1,3 @@
-module github.com/magnoliAHAH/protos-glorbo
+module ssov1
 
 go 1.24.1

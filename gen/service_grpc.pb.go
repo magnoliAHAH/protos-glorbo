@@ -4,7 +4,7 @@
 // - protoc             v5.29.2
 // source: service.proto
 
-package gen
+package ssov1
 
 import (
 	context "context"
